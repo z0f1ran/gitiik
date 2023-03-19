@@ -15,6 +15,7 @@ namespace gitiik
         static void Main(string[] args)
         {
             Console.WriteLine("v2");
+            Console.WriteLine("v3");
             NewFeature();
         }
     }
